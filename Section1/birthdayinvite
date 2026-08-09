@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MY BIRTHDAY</title>
+
+        <h1>ON 25th of MAY</h1>
+        <img src="https://asset.gecdesigns.com/img/wallpapers/happy-birthday-wishes-delicious-cake-with-balloons-on-a-yellow-background-sr02012508-cover.webp" alt="bday imgage">
+
+    </head>
+    <body>
+        
+        <div>
+            <h2>WHAT TO BRING: </h2>
+
+            <ul>
+                <li>Balloons(i love em)</li>
+                <li>Cake(i love em)</li>
+                <li>An Appetite</li>
+            </ul>
+        </div>
+        <div>
+            
+
+            <a href="https://g.co/sharelocation">CLICK HERE</a>
+        </div>
+    </body>
+</html>
