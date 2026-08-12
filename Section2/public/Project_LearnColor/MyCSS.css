@@ -1,0 +1,15 @@
+.Color[value = "Red"]{
+    color: red;
+}
+.Color[value = "Yelllow"]{
+    color: yellow;
+    outline-color: black;
+    text-align: center;
+}
+.Color[value = "Blue"]{
+    color: blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
