@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(250, 235, 215);
+}
+.Color[value = "firstline"]{
+    background-color: rgb(90, 143, 90);
+    color: rgb(250, 235, 215);
+    font-size: 70px;
+    font-family: "Averia Serif Libre", serif;
+    text-align: center;
+    
+    
+    
+}
+.Color[value ="secondline"]{
+    background-color: rgb(167, 90, 62);
+    color: rgb(250, 235, 215);
+    font-family: "Averia Serif Libre", serif;
+    text-align: end;
+    
+}   

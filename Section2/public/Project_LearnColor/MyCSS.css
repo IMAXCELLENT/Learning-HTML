@@ -5,6 +5,7 @@
     color: yellow;
     outline-color: black;
     text-align: center;
+    text-decoration: ;
 }
 .Color[value = "Blue"]{
     color: blue;
