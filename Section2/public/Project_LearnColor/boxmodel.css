@@ -1,0 +1,27 @@
+.gins[value = "border_first"]{
+    
+    padding: 10px;
+    background-color: rgb(20, 104, 70);
+    padding: 20px;
+}
+.gins[value = "border_Second"]{
+    
+   border-width: 20px 10px;
+    background-color: rgb(237, 233, 11);
+    margin-left: 260px;
+   
+
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+}
+.gins[value = "border_Third"]{
+    
+    align-self: center;
+    background-color: brown;
+    margin-left: 40px;
+   
+
+}
